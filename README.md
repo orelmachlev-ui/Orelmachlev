@@ -24,4 +24,5 @@ I am a 2nd-year Electrical Engineering student with a passion for bridging the g
 
 
 ### 📫 Connect with me
-[Email](mailto:Orelmachlev@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/orel-machlev-2a6132237/?trk=opento_sprofile_topcard)
+- [Email](mailto:Orelmachlev@gmail.com)
